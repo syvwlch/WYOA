@@ -1,0 +1,2 @@
+First asciidoc file, as well as my own little cheatsheet for Atom.
+Two birds, one stone.
