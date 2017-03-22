@@ -12,6 +12,11 @@ ____
 
 First asciidoc file, as well as my own little cheatsheet for Atom.
 
+== Cursor Tricks
+
+[TIP]
+You can create multiple cursors with CMD+Click. 
+
 == Useful links
 [horizontal]
 
