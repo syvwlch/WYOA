@@ -1,2 +1,16 @@
+= Cool Atom Tricks
+Mathieu Glachant <syvwlch@gmail.com>
+v0.1, 2017-03-22
+:toc:
+:numbered:
+
 First asciidoc file, as well as my own little cheatsheet for Atom.
-Two birds, one stone.
+
+TIP: Two birds, one stone.
+
+== Useful links
+[horizontal]
+Atom Flight Manual::
+http://flight-manual.atom.io
+ASCIIdoc Writer's Guide::
+http://asciidoctor.org/docs/asciidoc-writers-guide/
