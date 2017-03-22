@@ -4,13 +4,19 @@ v0.1, 2017-03-22
 :toc:
 :numbered:
 
-First asciidoc file, as well as my own little cheatsheet for Atom.
+[made up quote, zen slingmaster]
+____
+Two birds, one stone.
+____
+:attribution:
 
-TIP: Two birds, one stone.
+First asciidoc file, as well as my own little cheatsheet for Atom.
 
 == Useful links
 [horizontal]
+
 Atom Flight Manual::
 http://flight-manual.atom.io
+
 ASCIIdoc Writer's Guide::
 http://asciidoctor.org/docs/asciidoc-writers-guide/
