@@ -5,14 +5,31 @@ Mathieu Glachant <syvwlch@gmail.com>
 
 Some preliminary thoughts on the logistics of conflict for a space-based digital civilization, assuming only known physics & in-situ resource extraction.
 
-== Hoplites per Camel Ratio
+== Hoplites to Camel Ratio
 
-While reading _'Alexander the Great and the Logistics of the Macedonian Army'_ footnote:[http://www.ucpress.edu/book.php?isbn=9780520042728], I came across a formula for how many pack animals an army would need for a given number of days' march without resupply, given that these animals have to carry their own feed and/or water.
+While reading _'Alexander the Great and the Logistics of the Macedonian Army'_ footnote:[http://www.ucpress.edu/book.php?isbn=9780520042728], I came across a formula for how many pack animals an army would need for a given number of days' march without resupply.
 
-The number of pack animals grows very fast, and indeed reaches a hard limit when the animals need more than they carry.
+The number of pack animals grows very fast, and indeed reaches a hard limit when each animal needs more for the march than it can carry.
 
-== Payload to Fuel Ratio
+== Payload to Propellant Ratio
 
-This formula reminded me of the Rocket Equation footnote:[https://en.wikipedia.org/wiki/Tsiolkovsky_rocket_equation], but there are some key differences.
+This formula reminded me of the Rocket Equation footnote:[https://en.wikipedia.org/wiki/Tsiolkovsky_rocket_equation], and the (imperfect) mapping which sprang to mind was:
+****
+[horizontal]
+hoplites:: payload
+pack animals:: propellant
+days of marching:: delta V
+****
 
-In a rocket, there is no limit to how much fuel a given engine can 'carry'.
+The main difference being that pack animals are a combination of drymass & propellant, with a limit on how much propellant they can carry. Almost like a standardized booster?
+****
+[horizontal]
+hoplites:: dry mass
+pack animals:: boosters/tanks
+days of marching:: delta V
+****
+
+Which suggests the following improvements:
+
+* Move the grain between pack animals each day, and cut loose the ones you don't need anymore (similar to asparagus staging footnote:[http://wiki.kerbalspaceprogram.com/wiki/Asparagus_staging])
+* Feed the unneeded animals to your hoplites (as much as they'll eatfootnote:[too bad the pack animals are not omnivores])
