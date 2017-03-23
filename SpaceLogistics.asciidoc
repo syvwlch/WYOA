@@ -1,0 +1,18 @@
+= Ruminations on Space Logistics
+Mathieu Glachant <syvwlch@gmail.com>
+:toc:
+:numbered:
+
+Some preliminary thoughts on the logistics of conflict for a space-based digital civilization, assuming only known physics & in-situ resource extraction.
+
+== Hoplites per Camel Ratio
+
+While reading _'Alexander the Great and the Logistics of the Macedonian Army'_ footnote:[http://www.ucpress.edu/book.php?isbn=9780520042728], I came across a formula for how many pack animals an army would need for a given number of days' march without resupply, given that these animals have to carry their own feed and/or water.
+
+The number of pack animals grows very fast, and indeed reaches a hard limit when the animals need more than they carry.
+
+== Payload to Fuel Ratio
+
+This formula reminded me of the Rocket Equation footnote:[https://en.wikipedia.org/wiki/Tsiolkovsky_rocket_equation], but there are some key differences.
+
+In a rocket, there is no limit to how much fuel a given engine can 'carry'.
