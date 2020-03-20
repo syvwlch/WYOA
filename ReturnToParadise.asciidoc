@@ -14,13 +14,13 @@ Frankly, I did not give a damn about poor mad Da. Not anymore.
 // Meet gardener. Must choose to lose knowledge in order to stay.
 
 == 4
-// Shed clothing and other trappings of knowledge.
+// Shed clothing and other trappings of knowledge. Find tree 'menacing light fixture'.
 
 == 5
 // Talk Da into choice. See results in him.
 
 == 6
-// Choose. Meet serpent. Serpent explains what she lost.
+// Choose. Meet serpent 'Hateful genius'. Serpent explains what she lost.
 
 == 7
 // Gardener explains what she gained. Takes her to sleeping Da. The End.
