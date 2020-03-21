@@ -38,7 +38,7 @@ A beam of light sweeps towards us, raising the texture of the ground before us, 
 "Follow ye me." he points his light back at the walls, and we stumble in his shadow, blind to what lies beneath our aching feet.
 
 == 3
-// Shed clothing and other trappings of knowledge. Must choose to lose knowledge in order to stay.
+// Shed clothing and other trappings of knowledge.
 
 The enclosure looms as we near: a rising wall of white light ahead, inky darkness still behind, in the corner of my eye, and a black cutout where our guide stands waiting, the light spilling around the edges of his form, softening it and threatening to consume it the closer we come.
 
@@ -55,7 +55,7 @@ Our guide smiles as we both peal it from our bodies and cast it to the ground.
 "He will meet thee now." he murmurs, raising his left arm to point to the heart of the enclosure, where the lightfall is rooted to the earth.
 
 == 4
-// Meet gardener. Find tree 'menacing light fixture'.
+// Meet gardener. Find tree 'menacing light fixture'. Must choose to lose knowledge in order to stay. 
 
 == 5
 // Talk Da into choice. See results in him.
