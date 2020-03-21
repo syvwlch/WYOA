@@ -33,12 +33,12 @@ A beam of light sweeps towards us, raising the texture of the ground before us, 
 
 "Ye may come inside, an ye wish it." we hear, as the beam sweeps away again. It pours from the hand of he who spoke, as straight as that fall of light in the sky above us, and only now do I feel its brassy heat fade from my face. I do not miss it.
 
-"Aye, lord, an it please ye." I bow to drag mad Da back to his feet.
+"Aye, guardian, an it please ye." I bow to drag mad Da back to his feet.
 
 "Follow ye me." he points his light back at the walls, and we stumble in his shadow, blind to what lies beneath our aching feet.
 
 == 3
-// Meet gardener. Must choose to lose knowledge in order to stay.
+// Shed clothing and other trappings of knowledge. Must choose to lose knowledge in order to stay.
 
 The enclosure looms as we near: a rising wall of white light ahead, inky darkness still behind, in the corner of my eye, and a black cutout where our guide stands waiting, the light spilling around the edges of his form, softening it and threatening to consume it the closer we come.
 
@@ -46,14 +46,16 @@ I do not see the gate as we pass inside, my eyes drowning like someone unable to
 
 Inside the enclosure is filled with light. Soft, dense light with the power and time to banish shadow from every crack and hollow, to settle in and own its space. My eyes see, now, possibly for the first time.
 
-Our guide stands to our left, a little taller yet than my Da and unblemished. In his right hand is a tool, or rather the handle of one, held loosely like something no longer needed.
+Our guide stands to our left, a little taller yet than my Da. He has left his shadow outside, and that terrible beam is revealed to be a small dull thing held loosely in his right hand. He is naked, and unblemished, and I am filled with shame.
 
-In this place, it seems impossible that tool could have once blinded us, or that our guide might have seemed a shadow against the walls of the enclosure. Impossible for sight to fail to see.
+Shame that my flesh is rumpled and creased, yes, that it has not held this glow of health and vigor for a long time... but mostly shame for the dirty rags that cloak it. My skin crawls at the thought of the shadow clinging to my limbs, this darkness Da and I have brought here with us.
 
-Until
+Our guide smiles as we both peal it from our bodies and cast it to the ground.
+
+"He will meet thee now." he murmurs, raising his left arm to point to the heart of the enclosure, where the lightfall is rooted to the earth.
 
 == 4
-// Shed clothing and other trappings of knowledge. Find tree 'menacing light fixture'.
+// Meet gardener. Find tree 'menacing light fixture'.
 
 == 5
 // Talk Da into choice. See results in him.
