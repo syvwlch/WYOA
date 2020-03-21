@@ -3,7 +3,7 @@ Mathieu Glachant <syvwlch@gmail.com>
 Required words: 'hateful genius' & 'menacing light fixture'
 :toc:
 
-== 1 "Yea, though I walk ..."
+== 1 "I will fear no evil..."
 // Establish dramatis personae.
 
 Frankly, I do not give a damn for poor mad Da. Not anymore.
@@ -18,7 +18,7 @@ I will drag mad Da there by his hair if I have to. I will breathe thru clenched 
 
 For my bright hot sons.
 
-== 2
+== 2 "Yea, though I walk in the valley..."
 // Get past gatekeeper and into garden
 
 Finding the way was the easy part.
@@ -37,7 +37,7 @@ A beam of light sweeps towards us, raising the texture of the ground before us, 
 
 "Follow ye me." he points his light back at the walls, and we stumble in his shadow, blind to what lies beneath our aching feet.
 
-== 3
+== 3 "Thy rod and thy staff..."
 // Shed clothing and other trappings of knowledge.
 
 The enclosure looms as we near: a rising wall of white light ahead, inky darkness still behind, in the corner of my eye, and a black cutout where our guide stands waiting, the light spilling around the edges of his form, softening it and threatening to consume it the closer we come.
@@ -54,16 +54,16 @@ Our guide smiles as we both peal it from our bodies and cast it to the ground.
 
 "He will meet thee now." he murmurs, raising his left arm to point to the heart of the enclosure, where the lightfall is rooted to the earth.
 
-== 4
-// Meet gardener. Find tree 'menacing light fixture'. Must choose to lose knowledge in order to stay. 
+== 4 "My cup runneth over..."
+// Meet gardener. Find tree 'menacing light fixture'. Must choose to lose knowledge in order to stay.
 
-== 5
+== 5 "He leadeth me..."
 // Talk Da into choice. See results in him.
 
-== 6
+== 6 "He restoreth my soul..."
 // Choose. Meet serpent 'Hateful genius'. Serpent explains what she lost.
 
-== 7
+== 7 "He maketh me to lie down..."
 // Gardener explains what she gained. Takes her to sleeping Da, calling her Eve.
 
 
