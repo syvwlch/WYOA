@@ -1,6 +1,5 @@
 = Return to Paradise
 Mathieu Glachant <syvwlch@gmail.com>
-Required words: 'hateful genius'
 :toc:
 
 == 1 "In the valley of the shadow of death..."
