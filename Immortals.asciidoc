@@ -2,18 +2,26 @@
 Mathieu Glachant <syvwlch@gmail.com>
 :toc:
 
-== Setting
+== The Issue with Immortal Sapients
+
+=== Lifespans of Immortal Sapients
 
 Fantasy settings often have at least one species of immortal sapients, e.g. Tolkien's Elves. Individuals can be killed thru violence or accident, but do not suffer from disease or die from old age.
 
 Lifespans routinely span centuries, and can span millennia. Galadriel, for example, is 7,000 years old by the end of the Third Age, and first generation elves (Cirdan, possibly?) would be well over 11,000 years old.
 
+=== Timescales of Language Evolution
+
 These lifespans are on the timescales of the evolution of entire families of languages. Proto-Indo-European is 4,500 to 5,000 years old. Semitic languages last shared a common ancestor 7,000 years ago, and seem to have split off from Kushitic languages 8,000 years ago.
 
-A Galadriel in the Fertile Crescent would have personal memories of the Indo-European noun case system evolving, and then disappearing in many of the daughter languages; if she wanted to know how the Semitic triconsonant root system arose, she could get it a firsthand account from others a little older than she.
+A Galadriel in the Fertile Crescent would have personal memories of the Indo-European noun case system evolving, and then disappearing in many of the daughter languages; if she wanted to know how the Semitic triconsonant root system arose, she could get a firsthand account from others a little older than she.
 
 Languages are a good yardstick for the sheer amount of change that can happen over such timescales, because they provide granularity down to much shorter lengths. Readers grapple with this when meeting non-contemporary texts. After only a few decades, the language sounds quaint and antiquated. After a handful of centuries, comprehension is a struggle. After one millennium, one faces a different language altogether.
 
+=== Timescales of Evolution of Agriculture
+
 Agriculture is another field of mortal endeavor with 10,000 years of history. Neolithic crop domestication (wheat, barley, peas, lentils, etc...) is 11,500 years old in the Fertile Crescent. Rice domestication in China is 8,000 years old. Pigs were domesticated 13,000 years ago, cattle and sheep by 11,000 years ago. All of which have seen refinements and changes to the present day, see modern short-wheats for example.
+
+=== Why Is This a Problem?
 
 All of this to point out: these immortal sapients are presented as having stable, often small-c conservative cultures, despite a lived experience of contact with mortal societies that are undergoing sustained patterns of change. I do not think this is realistic.
