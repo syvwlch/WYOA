@@ -78,11 +78,13 @@ In other words, I would expect immortals to effectively live in a post-scarcity 
 
 All the more reason for the young to balk at diving into the deep end.
 
-=== The Social Black Hole
-
-One of the current interpretation of black holes is that they are systems which reach thermal equilibrium very quickly relative to the time during which their complexity continues to grow. Where thermal equilibrium means the distribution of energy is very uniform, and complexity means the number of connections each individual part makes with all the other parts.
+== The Social Black Hole
 
 An immortal society in which any temporary material disparity in wealth or power is very quickly spread out amongst all, but in which the social, cultural, artistic, and moral ties between individuals continue to grow more and more complicated and tangled, is basically like a social black hole.
+
+=== Analogy with Spacetime Black Holes
+
+One of the current interpretation of black holes is that they are systems which reach thermal equilibrium very quickly relative to the time during which their complexity continues to grow. Where thermal equilibrium means the distribution of energy is very uniform, and complexity means the number of connections each individual part makes with all the other parts.
 
 Once an individual falls past the event horizon, a certain threshold of proximity and interaction with the core of the black hole, this societal complexity is growing around them at such a rate that they cannot swim upstream fast enough to escape. In concrete terms, an immortal deep inside a culture of fellow 10,000 year old nerds may no longer be able to function outside that tight self-referential knot of in-jokes, purpose-built-languages, and social obligations.
 
@@ -91,3 +93,23 @@ Only an enduring passion for the surprises and delights of mortal cultures might
 In the analogy with a black hole, the main way the object interacts with the rest of the universe is via gravity, which can be felt at a distance past the event horizon. What would be equivalent of gravity, in a social black hole that holds a massive amount of sapient lived experience, memories, and knowledge which can never escape its own proximity?
 
 It would have to be the attraction of mind to mind, no? Which causes minds to gather in one place until the accumulation can collapse into a social black hole.
+
+=== Idea Singularities
+
+In a sense, a Social Black Hole does not require physical proximity. It exists in idea-space, and can be thought of as such a concentration of coherent, adjacent ideas that it bends idea-space itself until the gradient gets so steep all minds wandering too close can never escape again.
+
+In a sense, the conceptual space inside this event horizon grows faster than any mind can communicate, giving rise to an area in idea-space which has a finite surface which can be approached and circumscribed, but an infinite, forever-growing internal volume.
+
+Minds inside such an idea singularity would still be able to move about the physical world, but communication of new ideas with other minds would be one way, outside-in. Primarily because no mind could think fast enough to translate an internal thought into external ideas.
+
+Fundamentally, such a Social Black Hole can only be understood and discussed from the inside, but once inside a mind cannot never truly escape it, as it becomes impossible to discuss anything at all without reference to ideas from inside.
+
+In a sense the vocabulary required to describe the inside of an idea singularity is growing faster than someone external could possibly be exposed to it, let alone learn it. An attempt to communicate from the inside-out would sounds like gibberish.
+
+=== Decay of an Idea Singularity
+
+There's nothing inherent to immortals that makes them more likely than mortals to form these idea singularities, except that the underlying dense web of conceptual relationships are not brought to an end by the death of the participants. So in a sense, these would be like a religion, or a philosophical school, or an art movement, that never ended but instead became more and more syncretic and baroque.
+
+Amongst mortals the turnover of generations means that even if an idea singularity does form, like say during a revolution, it tends to decay. Escape is always possible via death. The conservatism of adult mortals would also make the idea singularity sclerotic, unable to absorb and distribute new ideas or external influences, leading to instability and fission. Lastly, the disdain of the mortal youth for their elders' quaint ideas would repel them, making it difficult to replace the aging members with fresh minds.
+
+Amongst immortals, these natural decay pathways are blocked, short of a massive die-off. This makes these idea singularities much more of a threat particularly to conservative youth who would fear that irreversible conceptual fall.
