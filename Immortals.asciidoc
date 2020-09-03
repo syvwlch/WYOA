@@ -14,13 +14,13 @@ Lifespans routinely span centuries, and can span millennia. Galadriel, for examp
 
 These lifespans are on the timescales of the evolution of entire families of languages. Proto-Indo-European is 4,500 to 5,000 years old. Semitic languages last shared a common ancestor 7,000 years ago, and seem to have split off from Kushitic languages 8,000 years ago.
 
-A Galadriel in the Fertile Crescent would have personal memories of the Indo-European noun case system evolving, and then disappearing in many of the daughter languages; if she wanted to know how the Semitic triconsonant root system arose, she could get a firsthand account from others a little older than she.
+A Galadriel born in the right place could have personal memories of the Indo-European noun case system evolving, and then disappearing in many of the daughter languages; if she wanted to know how the Semitic triconsonant root system arose, she could get a firsthand account from others a little older than she.
 
 Languages are a good yardstick for the sheer amount of change that can happen over such timescales, because they provide granularity down to much shorter lengths. Readers grapple with this when meeting non-contemporary texts. After only a few decades, the language sounds quaint and antiquated. After a handful of centuries, comprehension is a struggle. After one millennium, one faces a different language altogether.
 
 === Timescales of Evolution of Agriculture
 
-Agriculture is another field of mortal endeavor with 10,000 years of history. Neolithic crop domestication (wheat, barley, peas, lentils, etc...) is 11,500 years old in the Fertile Crescent. Rice domestication in China is 8,000 years old. Pigs were domesticated 13,000 years ago, cattle and sheep by 11,000 years ago. All of which have seen refinements and changes to the present day, see modern short-wheats for example.
+Agriculture is another field of mortal endeavor with 10,000 years of history. Neolithic crop domestication (wheat, barley, peas, lentils, etc...) is 11,500 years old in the Fertile Crescent. Rice domestication in China is 8,000 years old. Pigs were domesticated 13,000 years ago, cattle and sheep by 11,000 years ago. All of which have seen refinements and changes to the present day, see modern short-stalked wheats for example.
 
 === Why Is This a Problem?
 
@@ -38,7 +38,7 @@ What would a functionally immortal sapient who embraces change be like?
 
 Elves are often portrayed as delighting in language. They sing, they recite poetry at the drop of a hat, and fawn over old hobbits who translate it or write it in new styles they've never heard before. There's even a sense in which what mortals call a 'spell' is simply elven spoken-word sub-creation so intense the world responds to it.
 
-Tolkien's elves are able to evolve multiple languages while first generation elves are still around, without much linguistic tension, so at least initially they do not exhibit conservative tendencies here. Before they even meet any mortals, this flexibility seems to ossify once Sindarin and Quenya are established.
+Tolkien's elves evolve multiple languages in the presence of first generation elves without much linguistic tension, so at least initially they do not exhibit conservative tendencies here. Before they even meet any mortals, however, this flexibility seems to ossify once Sindarin and Quenya are established.
 
 I find that odd.
 
@@ -52,9 +52,9 @@ Why would they not compose great epics of alliterative verse in languages best s
 
 Given immortal sapients who love the languages of mortals, what shenanigans might they get up to?
 
-They may influence the evolution of mortal languages in certain directions, almost like a form of gardening. Techniques might range from trying to introduce neologisms and slang, all the way up to establishing the gold standards which 'set' a language, like Cicero for Latin, Dante for Italian, or in oral traditions, like Homer for Greek.
+They might influence the evolution of mortal languages in certain directions, almost like a form of gardening. Techniques could range from introducing neologisms and slang, to establishing the gold standards which 'set' a language, like Cicero for Latin, Dante for Italian, or Homer for Greek.
 
-Alternatively, they could invent entire constructed languages (conlangs) which did _not_ have living, mortal speakers, and leave a body of work in those languages for later mortals to find... or they might ensure that a small number of mortals speak languages completely unrelated to any of their neighbors.
+Alternatively, they could invent entire constructed languages (conlangs) which did _not_ have living, mortal speakers, and leave a body of work in those languages for later mortals to find... or they might set up small groups of mortals speaking languages completely unrelated to any of their neighbors.
 
 === Raising Young
 
@@ -72,7 +72,7 @@ How many mortal lifetimes does an immortal have to live, actively seeking new kn
 
 Would a society of immortals experience wealth and power accumulation in the hands of the few, or would time and the ability to always walk away to a fresh start somewhere else make that impossible?
 
-I tend to think that such a society would reach a form of thermal equilibrium with respect to the ability to command the resources for food, energy, raw materials, or even labor... while the complexity of relationships between individuals and groups continued to grow well after no material difference was in evidence. After all, if an immortal found themselves without resources, they have the skills to recoup their losses, even if that takes a few centuries.
+I tend to think that such a society would reach a form of thermal equilibrium with respect to the ability to command the resources for food, energy, raw materials, or even labor... while the complexity of relationships between individuals and groups continued to grow well after no material difference was in evidence. After all, if an immortal found themselves without resources, they have the skills to recoup their losses, even if that takes a few decades.
 
 In other words, I would expect immortals to effectively live in a post-scarcity condition, because they are ALWAYS time-rich. That, combined with millennia of experience and knowledge and luck-favoring-the-prepared, would ensure it. Such a condition would not, I think, lead to a uniform, stagnant society, but instead leave immortals free to pursue various interests, form alliances of ornate complexity dedicated to pursuits shared with arbitrarily small numbers of peers, and otherwise spin such a tangled web of relationships to present a forbidding challenge to a new entrant or to someone wishing to break free of it.
 
@@ -80,12 +80,14 @@ All the more reason for the young to balk at diving into the deep end.
 
 === The Social Black Hole
 
-One of the current interpretation of black holes is that they are systems which reach thermal equilibrium very quickly relative to the time during which their complexity continues to grow, where complexity is measured by how many interactions need to happen to recreate the current state of connections between the constituents.
+One of the current interpretation of black holes is that they are systems which reach thermal equilibrium very quickly relative to the time during which their complexity continues to grow. Where thermal equilibrium means the distribution of energy is very uniform, and complexity means the number of connections each individual part makes with all the other parts.
 
-An immortal society in which any temporary material disparity in wealth or power is very quickly consumed, but in which the social, cultural, artistic, and moral ties between individuals continue to grow more and more complicated and tangled, is basically like a social black hole.
+An immortal society in which any temporary material disparity in wealth or power is very quickly spread out amongst all, but in which the social, cultural, artistic, and moral ties between individuals continue to grow more and more complicated and tangled, is basically like a social black hole.
 
-Once an individual falls past the event horizon, a certain threshold of proximity and interaction with the core of the black hole, this societal complexity is growing behind them at such a rate that they cannot swim upstream fast enough to escape. In concrete terms, an immortal deep inside a culture of fellow 10,000 year old nerds may no longer be able to function outside that tight self-referential knot of in-jokes, purpose-built-languages, and social obligations.
+Once an individual falls past the event horizon, a certain threshold of proximity and interaction with the core of the black hole, this societal complexity is growing around them at such a rate that they cannot swim upstream fast enough to escape. In concrete terms, an immortal deep inside a culture of fellow 10,000 year old nerds may no longer be able to function outside that tight self-referential knot of in-jokes, purpose-built-languages, and social obligations.
 
-Only an enduring passion for the surprises and delights of mortal cultures might cause an immortal to break free, and form of sort of Hawking radiation detectable from outside the event horizon.
+Only an enduring passion for the surprises and delights of mortal cultures might cause an immortal to break free, and form of sort of Hawking radiation detectable from outside the event horizon... or perhaps they are still free because no concentration of immortals has yet reached the threshold density to create a social black hole?
 
 In the analogy with a black hole, the main way the object interacts with the rest of the universe is via gravity, which can be felt at a distance past the event horizon. What would be equivalent of gravity, in a social black hole that holds a massive amount of sapient lived experience, memories, and knowledge which can never escape its own proximity?
+
+It would have to be the attraction of mind to mind, no? Which causes minds to gather in one place until the accumulation can collapse into a social black hole.
